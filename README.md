@@ -28,7 +28,7 @@ To determine whether a using Support Vector Machine (SVM) was a suitable approac
 The scatter plot provided promising evidence for a clear decision boundary, with Osmancik occupying the lower-left region and Cammeo occupying the upper-right. While some overlap was visible around the mid-range values, the overall separation between the two classes appeared sufficient to justify using an SVM.
 
 ## Dataset
-This project uses the Rice (Cammeo and Osmancik) dataset, available [here] (https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik).
+This project uses the Rice (Cammeo and Osmancik) dataset, available [here](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik).
 
 ## Evaluation
 To evaluate the performance, the model's classifications of the test data are compared against the true labels using various metrics. The accuracy score gives an overall measure of how many classifications were correct. The classification report provides the precision, recall, and F1 scores. The precisions score gives the proportion of classifications that were made for a class that were actually correct. The recall score gives the proportion of actual instances of a class that were correctly identified. The F1-score is the harmonic mean of precision and recall, giving a single balanced measure of performance per class. A confusion matrix is also plotted to visualise where the model is making mistakes, showing the counts of correct and incorrect classifications for each class.
