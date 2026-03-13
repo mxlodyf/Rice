@@ -2,15 +2,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
 - [Technique](#design)
 - [Evaluation](#design)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Program Structure](#program-structure)
-- [Contributions](#contributions)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Introduction
 Rice is an implementation and evaluation of a Support Vector Machine (SVM) that classifies two types of rice grain.
